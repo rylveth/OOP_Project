@@ -1,0 +1,15 @@
+/home/roza/OOP_Project/obj/Debug/net10.0/OOP_Project.GeneratedMSBuildEditorConfig.editorconfig
+/home/roza/OOP_Project/obj/Debug/net10.0/OOP_Project.AssemblyInfoInputs.cache
+/home/roza/OOP_Project/obj/Debug/net10.0/OOP_Project.AssemblyInfo.cs
+/home/roza/OOP_Project/obj/Debug/net10.0/OOP_Project.csproj.CoreCompileInputs.cache
+/home/roza/OOP_Project/obj/Debug/net10.0/OOP_Project.sourcelink.json
+/home/roza/OOP_Project/bin/Debug/net10.0/OOP_Project
+/home/roza/OOP_Project/bin/Debug/net10.0/OOP_Project.deps.json
+/home/roza/OOP_Project/bin/Debug/net10.0/OOP_Project.runtimeconfig.json
+/home/roza/OOP_Project/bin/Debug/net10.0/OOP_Project.dll
+/home/roza/OOP_Project/bin/Debug/net10.0/OOP_Project.pdb
+/home/roza/OOP_Project/obj/Debug/net10.0/OOP_Project.dll
+/home/roza/OOP_Project/obj/Debug/net10.0/refint/OOP_Project.dll
+/home/roza/OOP_Project/obj/Debug/net10.0/OOP_Project.pdb
+/home/roza/OOP_Project/obj/Debug/net10.0/OOP_Project.genruntimeconfig.cache
+/home/roza/OOP_Project/obj/Debug/net10.0/ref/OOP_Project.dll
